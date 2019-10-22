@@ -1,3 +1,6 @@
 
 #following the instructions of the tower control website
 .DS_Store
+
+#I created a random password text file to try to add to this file
+passwords.txt 

@@ -1,1 +1,5 @@
 Some random text to practice this stuff
+
+I'm adding some things so that it will be included on the commit
+
+I can use this and try the status command?
